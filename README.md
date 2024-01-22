@@ -15,166 +15,162 @@ Thesis: Application of Machine Learining in Seismology
 **MSc in Geophysics, Graduate University of Advanced Technology, Iran**    
 Thesis: Considering feasibility of thermal precursors for earthauke prediction
 
-**Skills**
+**Skills**  
+**Geophysical Techniques:**
+1. Seismic data acquisition and interpretation
+2. Gravity and magnetic surveys
+3. Electromagnetic methods
+4. Ground-penetrating radar (GPR)
+5. Resistivity and induced polarization surveys
 
-1. **Geophysical Techniques:**
-   - Seismic data acquisition and interpretation
-   - Gravity and magnetic surveys
-   - Electromagnetic methods
-   - Ground-penetrating radar (GPR)
-   - Resistivity and induced polarization surveys
+**Data Analysis and Processing:**
+1. Proficient in Python, Matlab, and SQL
+2. Signal processing and filtering
+3. Time-series analysis
+4. Fourier analysis
+5. Statistical analysis
 
-2. **Data Analysis and Processing:**
-   - Proficient in Python, Matlab, and SQL
-   - Signal processing and filtering
-   - Time-series analysis
-   - Fourier analysis
-   - Statistical analysis
+**Geospatial Analysis:**
+1. ArcGIS and QGIS proficiency
+2. Spatial data interpretation
+3. Mapping and cartography
+4. Remote sensing applications
+5. Spatial statistics
 
-3. **Geospatial Analysis:**
-   - ArcGIS and QGIS proficiency
-   - Spatial data interpretation
-   - Mapping and cartography
-   - Remote sensing applications
-   - Spatial statistics
+**Modeling and Inversion:**
+1. 2D and 3D modeling
+2. Forward and inverse modeling techniques
+3. Tomography methods
+4. Gravity and magnetic inversion
 
-4. **Modeling and Inversion:**
-   - 2D and 3D modeling
-   - Forward and inverse modeling techniques
-   - Tomography methods
-   - Gravity and magnetic inversion
+**Instrumentation and Equipment:**
+1. Operation and maintenance of geophysical instruments
+2. Seismic survey equipment
+3. Magnetometers and gravimeters
+4. Resistivity meters
+5. Electromagnetic induction tools
 
-5. **Instrumentation and Equipment:**
-   - Operation and maintenance of geophysical instruments
-   - Seismic survey equipment
-   - Magnetometers and gravimeters
-   - Resistivity meters
-   - Electromagnetic induction tools
+**Fieldwork and Site Investigation:**
+1. Field survey planning and execution
+2. Data collection in diverse terrains
+3. Soil and rock sampling
+4. Site characterization and analysis
 
-6. **Fieldwork and Site Investigation:**
-   - Field survey planning and execution
-   - Data collection in diverse terrains
-   - Soil and rock sampling
-   - Site characterization and analysis
+**Interdisciplinary Collaboration:**
+1. Working with geologists, hydrologists, and environmental scientists
+2. Collaboration with engineers and geotechnical experts
+3. Integration of geophysical data with other geological information
 
-7. **Interdisciplinary Collaboration:**
-   - Working with geologists, hydrologists, and environmental scientists
-   - Collaboration with engineers and geotechnical experts
-   - Integration of geophysical data with other geological information
+**Software and Tools:**
+1. Utilizing industry-specific software (e.g., Petrel, Kingdom)
+2. Programming languages (e.g., Python, Matlab)
+3. Geophysical modeling software (e.g., COMSOL)
+4. GIS tools for spatial analysis
 
-8. **Software and Tools:**
-   - Utilizing industry-specific software (e.g., Petrel, Kingdom)
-   - Programming languages (e.g., Python, Matlab)
-   - Geophysical modeling software (e.g., COMSOL)
-   - GIS tools for spatial analysis
+**Research and Development:**
+1. Designing and implementing geophysical research projects
+2. Staying updated on industry advancements and technological trends
+3. Contributing to the development of new geophysical methods
 
-9. **Research and Development:**
-   - Designing and implementing geophysical research projects
-   - Staying updated on industry advancements and technological trends
-   - Contributing to the development of new geophysical methods
+**Communication Skills:**
+1. Effectively presenting findings through reports and presentations
+2. Writing research papers for publication
+3. Communicating complex geophysical concepts to non-experts
+4. Collaborating with multidisciplinary teams
 
-10. **Communication Skills:**
-    - Effectively presenting findings through reports and presentations
-    - Writing research papers for publication
-    - Communicating complex geophysical concepts to non-experts
-    - Collaborating with multidisciplinary teams
+**Safety and Environmental Awareness:**
+1. Adhering to safety protocols during fieldwork
+2. Environmental impact assessment
+3. Mitigating risks associated with geophysical activities
 
-11. **Safety and Environmental Awareness:**
-    - Adhering to safety protocols during fieldwork
-    - Environmental impact assessment
-    - Mitigating risks associated with geophysical activities
+**Problem-Solving:**
+1. Analyzing complex geological and geophysical challenges
+2. Developing innovative solutions to data interpretation issues
+3. Troubleshooting equipment and instrumentation problems
 
-12. **Problem-Solving:**
-    - Analyzing complex geological and geophysical challenges
-    - Developing innovative solutions to data interpretation issues
-    - Troubleshooting equipment and instrumentation problems
+**Programming Languages:**
+1. Proficient in Python and/or R
+2. Familiarity with SQL for database management
 
-Certainly! Here's a list of skills for a data scientist:
+**Statistical Analysis:**
+1. Advanced statistical modeling
+2. Hypothesis testing and regression analysis
+3. Bayesian statistics
 
-1. **Programming Languages:**
-   - Proficient in Python and/or R
-   - Familiarity with SQL for database management
+**Machine Learning:**
+1. Supervised and unsupervised learning techniques
+2. Classification and regression models
+3. Ensemble methods (e.g., Random Forest, Gradient Boosting)
 
-2. **Statistical Analysis:**
-   - Advanced statistical modeling
-   - Hypothesis testing and regression analysis
-   - Bayesian statistics
+**Data Wrangling and Cleaning:**
+1. Cleaning and preprocessing raw data
+2. Handling missing data
+3. Feature engineering and transformation
 
-3. **Machine Learning:**
-   - Supervised and unsupervised learning techniques
-   - Classification and regression models
-   - Ensemble methods (e.g., Random Forest, Gradient Boosting)
+**Data Visualization:**
+1. Data visualization libraries (e.g., Matplotlib, Seaborn, ggplot2)
+2. Creating interactive visualizations (e.g., D3.js, Plotly)
 
-4. **Data Wrangling and Cleaning:**
-   - Cleaning and preprocessing raw data
-   - Handling missing data
-   - Feature engineering and transformation
+**Big Data Technologies:**
+1. Experience with distributed computing frameworks (e.g., Apache Spark)
+2. Hadoop ecosystem knowledge
 
-5. **Data Visualization:**
-   - Data visualization libraries (e.g., Matplotlib, Seaborn, ggplot2)
-   - Creating interactive visualizations (e.g., D3.js, Plotly)
+**Database Management:**
+1. SQL database systems (e.g., MySQL, PostgreSQL)
+2. NoSQL databases (e.g., MongoDB)
 
-6. **Big Data Technologies:**
-   - Experience with distributed computing frameworks (e.g., Apache Spark)
-   - Hadoop ecosystem knowledge
+**Deep Learning:**
+1. Neural network architectures
+2. TensorFlow or PyTorch proficiency
+3. Transfer learning techniques
 
-7. **Database Management:**
-   - SQL database systems (e.g., MySQL, PostgreSQL)
-   - NoSQL databases (e.g., MongoDB)
+**Data Exploration:**
+1. Exploratory Data Analysis (EDA)
+2. Data profiling and summary statistics
 
-8. **Deep Learning:**
-   - Neural network architectures
-   - TensorFlow or PyTorch proficiency
-   - Transfer learning techniques
+**Feature Selection and Engineering:**
+1. Identifying and selecting relevant features
+2. Creating new features to improve model performance
 
-9. **Data Exploration:**
-   - Exploratory Data Analysis (EDA)
-   - Data profiling and summary statistics
+**Model Deployment:**
+1. Experience deploying machine learning models to production
+2. Familiarity with containerization (e.g., Docker)
 
-10. **Feature Selection and Engineering:**
-    - Identifying and selecting relevant features
-    - Creating new features to improve model performance
+**Version Control:**
+1. Git for version control and collaborative development
 
-11. **Model Deployment:**
-    - Experience deploying machine learning models to production
-    - Familiarity with containerization (e.g., Docker)
+**Natural Language Processing (NLP):**
+1. Text mining and sentiment analysis
+2. Named Entity Recognition (NER)
 
-12. **Version Control:**
-    - Git for version control and collaborative development
+**Cloud Computing:**
+1. Working with cloud platforms (e.g., AWS, Azure, Google Cloud)
+2. Deploying and managing resources in the cloud
 
-13. **Natural Language Processing (NLP):**
-    - Text mining and sentiment analysis
-    - Named Entity Recognition (NER)
+**Collaboration and Communication:**
+1. Effective communication of technical findings to non-technical stakeholders
+2. Collaboration with cross-functional teams
 
-14. **Cloud Computing:**
-    - Working with cloud platforms (e.g., AWS, Azure, Google Cloud)
-    - Deploying and managing resources in the cloud
+**Data Ethics and Privacy:**
+1. Understanding and implementing ethical considerations in data science
+2. Ensuring compliance with data protection regulations
 
-15. **Collaboration and Communication:**
-    - Effective communication of technical findings to non-technical stakeholders
-    - Collaboration with cross-functional teams
+**A/B Testing:**
+1. Designing and analyzing A/B tests to evaluate model performance
 
-16. **Data Ethics and Privacy:**
-    - Understanding and implementing ethical considerations in data science
-    - Ensuring compliance with data protection regulations
+**Time Series Analysis:**
+1. Analyzing time-dependent data
+2. Forecasting and trend analysis
 
-17. **A/B Testing:**
-    - Designing and analyzing A/B tests to evaluate model performance
+**Optimization Techniques:**
+1. Optimization algorithms for model tuning
+2. Hyperparameter tuning
 
-18. **Time Series Analysis:**
-    - Analyzing time-dependent data
-    - Forecasting and trend analysis
-
-19. **Optimization Techniques:**
-    - Optimization algorithms for model tuning
-    - Hyperparameter tuning
-
-20. **Problem-Solving:**
-    - Developing creative solutions to complex data challenges
+**Problem-Solving:**
+1. Developing creative solutions to complex data challenges
 
 
-**Work Experience:**
-
+**Work Experience:**  
 **Geophysicist | EarthEx Geophysical Solutions Inc. | Nov 2022 - Jul 2023**
 - Conducted borehole electromagnetic (BHEM) using EMSProject and UR4.
 - Proficient in performing quality control/quality assurance (QC/QA) checks on BHEM data.
@@ -205,11 +201,8 @@ Certainly! Here's a list of skills for a data scientist:
 - Contributed to various aspects of geophysical data processing using EarthEx tools.
 - Collaborated with the team to ensure high-quality results.
 
-Ensure that you adapt and customize the information to align with the specific requirements of the job you are applying for.
 
-
-**Projects:**
-
+**Projects:**  
 **Seismic Receiver Function Analysis in North Canada | University of Manitoba | Jan 2023 - Present**
 Associated with the University of Manitoba, this ongoing project focuses on studying the Moho depth in North Canada through receiver function-related techniques.
 - Applied skills in Data Quality Assurance, Teleseismic analysis, Harmonic Decomposition, HK analysis, and Receiver Function analysis.
@@ -225,7 +218,6 @@ During five months of mandatory military service, dedicated efforts to a project
 - Aimed to provide valuable insights contributing to enhancing community resilience and guiding post-earthquake recovery efforts.
 
 **Awards and Honors:**
-
 1. **CSEGF Scholarship**
    - Issued by Canadian Society of Exploration Geophysics, Dec 2023
    - Award Value: $2000
@@ -295,30 +287,17 @@ During five months of mandatory military service, dedicated efforts to a project
 
 **Conference Presentations:**
 
-1. **CGU 2023 (Canadian Geophysical Union)**
-   - *Poster Presentation*
-   - **Date:** May 2023
-   - 
-2. **CCMEC 2023 (Central Canada Mineral Exploration Convention)**
-   - *Poster Presentation*
-   - **Date:** Nov 2023
-
-3. **AGU 2023 (American Geophysical Union)**
-   - *Poster Presentation*
-   - **Date:** Dec 2023
-
-4. **WIUGC 2024 (Western Inter-University Geological Conference)**
-   - *Oral Presentation*
-   - **Date:** Jan 2024
-   
+1. **CGU 2023 (Canadian Geophysical Union)**, *Poster Presentation*, May 2023
+2. **CCMEC 2023 (Central Canada Mineral Exploration Convention)**, Poster Presentation, Nov 2023
+3. **AGU 2023 (American Geophysical Union)**, Poster Presentation, Dec 2023
+4. **WIUGC 2024 (Western Inter-University Geological Conference)**, Oral Presentation, Jan 2024
 
 **Languages**
 - Farsi (Native)
 - English (Professional)
 - Arabic (Beginner)
 
-**Licenses & Certifications**
-
+**Licenses & Certifications**  
 1. *Python Intermediate*
    - **Issued:** Dec 2023
    - **Credential ID:** CC-2KKLEJ9G
