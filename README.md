@@ -8,7 +8,7 @@ Winnipeg, MB, Canada
 +1-(204)995-9782  
 sina.sabermahani@gmail.com  
 
-**Education**
+**Education**  
 **PhD Student in Geophysics, University of Manitoba**  
 Thesis: Application of Machine Learining in Seismology
 
