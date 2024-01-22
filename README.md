@@ -280,17 +280,17 @@ During five months of mandatory military service, dedicated efforts to a project
 1. **Sina Sabermahani**, Andrew Frederiksen, (2023, December 6). Improved Earthquake Clustering Using a Density‐Adaptive DBSCAN Algorithm: An Example from Iran. Seismological Research Letters.  
    - *URL:* [https://doi-org.uml.idm.oclc.org/10.1785/0220220305]
 
-2. **Sina Sabermahani** (2020, January 1). Sensitivity Analysis of Ground Motion Prediction Equation Using Next Generation Attenuation Dataset. Geodesy and Geodynamics.
-   - *URL:* [Provide the URL if available]
+2. **Sina Sabermahani**, Parisa Ashjanas (2020, January 1). Sensitivity Analysis of Ground Motion Prediction Equation Using Next Generation Attenuation Dataset. Geodesy and Geodynamics.
+   - *URL:* [https://doi-org.uml.idm.oclc.org/10.1016/j.geog.2019.09.004]
 
 3. **Sina Sabermahani**, Marziyeh Khalili (2019, January 1). Thermal Anomalies Detection Before Earthquake Using Three Filters (Fourier, Wavelet, and Logarithmic Differential Filter): A Case Study of Two Earthquakes in Iran. Iranian Journal of Earth Sciences.  
-   - *URL:* [Provide the URL if available]
+   - *URL:* [https://doi.org/10.30495/ijes.2019.544597]
 
 4. **Sina Sabermahani**, MohammadReza Sepahvand (2017, January 1). Investigation of Seismo-thermal Precursor of Goharan Earthquake (2013) by Thermal Data of MODIS Sensor in TERRA Satellite. Journal of Geography, Environment, and Earth Science International.  
-   - *URL:* [Provide the URL if available]
+   - *URL:* [https://doi.org/10.9734/JGEESI/2017/27226]
 
 5. **Sina Sabermahani** (2016, January 1). Applying LDF Such an Innovative Method on Time Series of Soil Temperature in Earthquake Prediction. Journal of Tethys.  
-   - *URL:* [Provide the URL if available]
+   - *URL:* [https://journals.pnu.ac.ir/article_2781.html]
 
 
 **Conference Presentations:**
