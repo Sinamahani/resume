@@ -9,14 +9,13 @@ Winnipeg, MB, Canada
 sina.sabermahani@gmail.com  
 
 **Education**
-**PhD Student in Geophysics, University of Manitoba**
+**PhD Student in Geophysics, University of Manitoba**  
 Thesis: Application of Machine Learining in Seismology
 
-**MSc in Geophysics, Graduate University of Advanced Technology, Iran**  
+**MSc in Geophysics, Graduate University of Advanced Technology, Iran**    
 Thesis: Considering feasibility of thermal precursors for earthauke prediction
 
 **Skills**
-Certainly! Here's a list of skills for a geophysicist:
 
 1. **Geophysical Techniques:**
    - Seismic data acquisition and interpretation
@@ -317,5 +316,108 @@ During five months of mandatory military service, dedicated efforts to a project
 - Farsi (Native)
 - English (Professional)
 - Arabic (Beginner)
+
+**Licenses & Certifications**
+
+1. **Sololearn Logo**
+   - *Python Intermediate*
+   - **Issued:** Dec 2023
+   - **Credential ID:** CC-2KKLEJ9G
+   - [Show credential](#)
+
+2. **DeepLearning.AI Logo**
+   - *Convolutional Neural Networks*
+   - **Issued:** Oct 2023
+   - **Credential ID:** 5TZPQABUNKFJ
+   - **Skills:** TensorFlow · NumPy · Image Processing
+   - [Show credential](#)
+
+3. **DeepLearning.AI Logo**
+   - *Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization*
+   - **Issued:** Aug 2023
+   - **Credential ID:** RQCUYECU3XMS
+   - [Show credential](#)
+
+4. **DeepLearning.AI Logo**
+   - *Structuring Machine Learning Projects*
+   - **Issued:** Aug 2023
+   - **Credential ID:** B5RN42CJL896
+   - **Skills:** Data Science · Deep Learning · Machine Learning
+   - [Show credential](#)
+
+5. **DeepLearning.AI Logo**
+   - *Neural Networks and Deep Learning*
+   - **Issued:** Jul 2023
+   - **Credential ID:** 7QVC248UK5UQ
+   - [Show credential](#)
+
+6. **Canadian Geophysical Union Logo**
+   - *Student Membership*
+   - **Issued:** Jan 2023 · **Expired:** Jan 2024
+
+7. **Canadian Red Cross Logo**
+   - *CPR/AED/First Aid*
+   - **Issued:** Nov 2022 · **Expires:** Nov 2025
+   - **Credential ID:** 103676476
+
+8. **DeepLearning.AI Logo**
+   - *Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning*
+   - **Issued:** Nov 2022
+   - **Credential ID:** FAQ7HHUEUWL5
+   - **Skills:** Data Analysis
+   - [Show credential](#)
+
+9. **Canadian Propane Association Logo**
+   - *400-08 - Connection and Use of Propane Torches*
+   - **Issued:** Oct 2022 · **Expires:** Oct 2025
+   - **Credential ID:** 475294
+
+10. **IBM Logo**
+    - *Machine Learning with Python*
+    - **Issued:** Jan 2021
+    - **Credential ID:** VB8TQQCB3SBY
+    - **Skills:** Time Series Analysis · Data Science · Python (Programming Language) · Pandas (Software)
+    - [Show credential](#)
+
+11. **IBM Logo**
+    - *Data Analysis with Python*
+    - **Issued:** Dec 2020
+    - **Credential ID:** EWUW43LZV3EH
+    - **Skills:** Data Analysis · Data Science · Python (Programming Language)
+    - [Show credential](#)
+
+12. **IBM Logo**
+    - *Databases and SQL for Data Science*
+    - **Issued:** Nov 2020
+    - **Skills:** Data Analysis · Data Science · SQL · SQLite
+
+13. **IBM Logo**
+    - *Data Science Methodology*
+    - **Issued:** Oct 2020
+    - **Credential ID:** QBNTC7XGX9FT
+    - **Skills:** Data Analysis · Data Science · Python (Programming Language)
+
+14. **Udemy Logo**
+    - *Machine Learning in GIS: Understand the Theory and Practice*
+    - **Issued:** Apr 2020
+    - **Credential ID:** UC-0cdf12df-1750-4e36-93a8-9992bc0e7410
+    - **Skills:** Data Analysis · Data Science
+    - [Show credential](#)
+
+15. **Coursera Logo**
+    - *What is Data Science?*
+    - **Issued:** Apr 2020
+    - **Credential ID:** 7DVWWHF46
+    - **Skills:** Data Analysis · Data Science · SQLite
+    - [Show credential](#)
+
+16. **University of Tehran Logo**
+    - *Principle of Seismic Hazard Assessment*
+    - **Issued:** May 2014
+    - **Skills:** Data Science
+
+17. **Seismological Society of America Logo**
+    - *SSA Membership*
+    - **Issued:** Dec 2022 · **Expired:** Dec 2023
 
 
