@@ -9,10 +9,10 @@ Winnipeg, MB, Canada
 sina.sabermahani@gmail.com  
 
 **Education**  
-**PhD Student in Geophysics, University of Manitoba**  
+**PhD Student in Geophysics, University of Manitoba**, 2021-224
 Thesis: Application of Machine Learining in Seismology
 
-**MSc in Geophysics, Graduate University of Advanced Technology, Iran**    
+**MSc in Geophysics, Graduate University of Advanced Technology, Iran**, 2015-2018    
 Thesis: Considering feasibility of thermal precursors for earthauke prediction
 
 **Skills**  
