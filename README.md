@@ -2,14 +2,11 @@
 My Resume in html and markdown formats
 
 ---
-**Sina Sabermahani**  
-
-100 Adamar Road
-Winnipeg, MB, Canada
-+1-(204)995-9782
-sina.sabermahani@gmail.com
-
-
+**Sina Sabermahani**    
+100 Adamar Road  
+Winnipeg, MB, Canada  
++1-(204)995-9782  
+sina.sabermahani@gmail.com  
 
 **Education**
 **PhD Student in Geophysics, University of Manitoba**
