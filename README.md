@@ -278,7 +278,7 @@ During five months of mandatory military service, dedicated efforts to a project
 **Publications**
 
 1. **Sina Sabermahani**, Andrew Frederiksen, (2023, December 6). Improved Earthquake Clustering Using a Density‐Adaptive DBSCAN Algorithm: An Example from Iran. Seismological Research Letters.  
-   - *URL:* [Provide the URL if available]
+   - *URL:* [https://doi-org.uml.idm.oclc.org/10.1785/0220220305]
 
 2. **Sina Sabermahani** (2020, January 1). Sensitivity Analysis of Ground Motion Prediction Equation Using Next Generation Attenuation Dataset. Geodesy and Geodynamics.
    - *URL:* [Provide the URL if available]
