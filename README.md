@@ -269,20 +269,20 @@ During five months of mandatory military service, dedicated efforts to a project
 
 **Publications**
 
-1. **Sina Sabermahani**, Andrew Frederiksen, (2023, December 6). Improved Earthquake Clustering Using a Density‐Adaptive DBSCAN Algorithm: An Example from Iran. Seismological Research Letters.  
-   - *URL:* [https://doi-org.uml.idm.oclc.org/10.1785/0220220305]
+1. **Sabermahani, S.**, & Frederiksen A. (May 2024). DeepRFQC: automating quality control for P-wave receiver function analysis using a U-net inspired network [under review article]. Seismica.
 
-2. **Sina Sabermahani**, Parisa Ashjanas (2020, January 1). Sensitivity Analysis of Ground Motion Prediction Equation Using Next Generation Attenuation Dataset. Geodesy and Geodynamics.
-   - *URL:* [https://doi-org.uml.idm.oclc.org/10.1016/j.geog.2019.09.004]
+2. **Sabermahani, S.**, & Frederiksen, A. W. (2024). Improved earthquake clustering using a density-adaptive DBSCAN algorithm: An example from Iran. Seismological Research Letters, 95(2A), 942-951. DOI: 10.1785/0320230188
 
-3. **Sina Sabermahani**, Marziyeh Khalili (2019, January 1). Thermal Anomalies Detection Before Earthquake Using Three Filters (Fourier, Wavelet, and Logarithmic Differential Filter): A Case Study of Two Earthquakes in Iran. Iranian Journal of Earth Sciences.  
-   - *URL:* [https://doi.org/10.30495/ijes.2019.544597]
+3. **Sabermahani, S.**, & Ashjanas, P. (2020). Sensitivity analysis of ground motion prediction equation using next generation attenuation dataset. Geodesy and Geodynamics, 11(1), 40-45. DOI: 10.1016/j.geog.2019.09.004
 
-4. **Sina Sabermahani**, MohammadReza Sepahvand (2017, January 1). Investigation of Seismo-thermal Precursor of Goharan Earthquake (2013) by Thermal Data of MODIS Sensor in TERRA Satellite. Journal of Geography, Environment, and Earth Science International.  
-   - *URL:* [https://doi.org/10.9734/JGEESI/2017/27226]
+4. **Sabermahani, S.**, & Khalili, M. (2019). Thermal anomalies detection before earthquake using three filters (Fourier, Wavelet and Logarithmic Differential Filter): A case study of two earthquakes in Iran. Iranian Journal of Earth Sciences, 11(1), 38-46. DOI: 10.30495/ijes.2019.544597
 
-5. **Sina Sabermahani** (2016, January 1). Applying LDF Such an Innovative Method on Time Series of Soil Temperature in Earthquake Prediction. Journal of Tethys.  
-   - *URL:* [https://journals.pnu.ac.ir/article_2781.html]
+5. **Sabermahani, S.**, & Sepahvand, M. (2017). Investigating the precursors of earthquake cloud and temperature changes in identifying earthquake-causing faults. Case Study: The earthquake in Mohammad-Abad-e-Rigan (January 27, 2011).  Scientific-Research Quarterly of Geographical Data (SEPEHR), 26(101), 25-32. https://doi.org/10.22131/sepehr.2017.25723
+
+6. **Sabermahani, S.**, Sepahvand, M., & Hosseinjani Zadeh, M. (2017). Investigation of seismo-thermal precursor of Goharan earthquake (2013) by thermal data of MODIS sensor in TERRA satellite. Journal of Geography, Environment and Earth Science International, 9(1), 1-8. https://doi.org/10.9734/jgeesi/2017/27226
+
+7. **Sabermahani, S.** (2016). Applying LDF, an innovative method on time series of soil temperature in earthquake prediction. Quarterly Journal of Tethys, 4(1), 12-17. Retrieved from https://www.sid.ir/en/journal/ViewPaper.aspx?sid=1542242
+
 
 
 **Conference Presentations:**
